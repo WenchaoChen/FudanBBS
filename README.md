@@ -26,4 +26,4 @@ android client of bbs.fudan.edu.cn,支持android版本4.0.1以上（API LEVEL >=
 # Contact
 Mail: zhongzh323@hotmail.com
 
-Wechat: correctzhong777
+Wechat: josephzhong777
